@@ -1,0 +1,224 @@
+{
+  "product1": [
+    {
+      "id": 1,
+      "title": "uniqlo",
+      "description": "Striped T-shirt (short sleeve)",
+      "image": "img/products/p1.png" ,
+      "price": "$24.90"
+    },
+    {
+      "id": 2,
+      "title": "uniqlo",
+      "description": "AIRism cotton oversized T-shirt (half sleeve)",
+      "image": "img/products/p2.png",
+      "price": "$24.90"
+    },
+    {
+      "id": 3,
+      "title": "uniqlo",
+      "description": "Stretch dry crew neck T (long sleeve)",
+      "image": "img/products/p3.png",
+      "price": "$29.90" 
+    },
+    {
+      "id": 4,
+      "title": "uniqlo",
+      "description": "Pocketable UV cut parka (3D cut)",
+      "image": "img/products/p4.png",
+      "price": "$89.90" 
+    },
+    {
+      "id": 5,
+      "title": "uniqlo",
+      "description": "Hickory work shirt (long sleeve)",
+      "image": "img/products/p5.png",
+      "price": "$19.90"
+    },
+    {
+      "id": 6,
+      "title": "uniqlo",
+      "description": "Denim shirt (button-down collar, long sleeves)",
+      "image": "img/products/p6.png",
+      "price": "$69.90" 
+    },
+    {
+      "id": 7,
+      "title": "uniqlo",
+      "description": "Tuck wide pants",
+      "image": "img/products/p7.png",
+      "price": "$49.90" 
+    },
+    {
+      "id": 8,
+      "title": "AAAA",
+      "description": "relaxed painter pants",
+      "image": "img/products/p8.png",
+      "price": "$49.90" 
+    }
+  ],
+  "product2": [
+    {
+      "id": 1,
+      "title": "Uniqlo U",
+      "description": "Lookbook 1",
+      "image": "img/products/lookbook-1.png"
+    },
+    {
+      "id": 2,
+      "title": "Uniqlo U",
+      "description": "Lookbook 2",
+      "image": "img/products/lookbook-2.png" 
+    },
+    {
+      "id": 3,
+      "title": "Uniqlo U",
+      "description": "Lookbook 3",
+      "image": "img/products/lookbook-3.png" 
+    },
+    {
+      "id": 4,
+      "title": "Uniqlo U",
+      "description": "Lookbook 4",
+      "image": "img/products/lookbook-4.png" 
+    },
+    {
+      "id": 5,
+      "title": "Uniqlo U",
+      "description": "Lookbook 5",
+      "image": "img/products/lookbook-5.png" 
+    },
+    {
+      "id": 6,
+      "title": "Uniqlo U",
+      "description": "Lookbook 6",
+      "image": "img/products/lookbook-6.png" 
+    },
+    {
+      "id": 7,
+      "title": "Uniqlo U",
+      "description": "Lookbook 7",
+      "image": "img/products/lookbook-7.png" 
+    },
+    {
+      "id": 8,
+      "title": "Uniqlo U",
+      "description": "Lookbook 8",
+      "image": "img/products/lookbook-8.png" 
+    }
+  ],
+  "product3": [
+    {
+      "id": 1,
+      "title": "uniqlo",
+      "description": "Striped T-shirt (short sleeve)",
+      "image": "img/products/p1.png" ,
+      "price": "$49.90"
+    },
+    {
+      "id": 2,
+      "title": "uniqlo",
+      "description": "AIRism cotton oversized T-shirt (half sleeve)",
+      "image": "img/products/p2.png",
+      "price": "$49.90"
+    },
+    {
+      "id": 3,
+      "title": "uniqlo",
+      "description": "Stretch dry crew neck T (long sleeve)",
+      "image": "img/products/p3.png",
+      "price": "$29.90"
+    },
+    {
+      "id": 4,
+      "title": "uniqlo",
+      "description": "Pocketable UV cut parka (3D cut)",
+      "image": "img/products/p4.png",
+      "price": "$89.90"
+    },
+    {
+      "id": 5,
+      "title": "uniqlo",
+      "description": "Hickory work shirt (long sleeve)",
+      "image": "img/products/p5.png",
+      "price": "$19.90" 
+    },
+    {
+      "id": 6,
+      "title": "uniqlo",
+      "description": "Denim shirt (button-down collar, long sleeves)",
+      "image": "img/products/p6.png",
+      "price": "$69.90" 
+    },
+    {
+      "id": 7,
+      "title": "uniqlo",
+      "description": "Tuck wide pants",
+      "image": "img/products/p7.png",
+      "price": "$49.90"
+    },
+    {
+      "id": 8,
+      "title": "uniqlo",
+      "description": "relaxed painter pants",
+      "image": "img/products/p8.png",
+      "price": "$49.90" 
+    },
+    {
+      "id": 9,
+      "title": "uniqlo",
+      "description": "Baggy jeans",
+      "image": "img/products/p9.png",
+      "price": "$49.90"
+    },
+    {
+      "id": 10,
+      "title": "uniqlo",
+      "description": "Easy Cargo Pants",
+      "image": "img/products/p10.png",
+      "price": "$49.90" 
+    },
+    {
+      "id": 11,
+      "title": "uniqlo",
+      "description": "pleated striped mini skirt",
+      "image": "img/products/p11.png",
+      "price": "$49.90" 
+    },
+    {
+      "id": 12,
+      "title": "uniqlo",
+      "description": "Slub cotton dress",
+      "image": "img/products/p12.png",
+      "price": "$59.90" 
+    },
+    {
+      "id": 13,
+      "title": "uniqlo",
+      "description": "Striped cotton A-line shirt dress",
+      "image": "img/products/p13.png",
+      "price": "$59.90" 
+    },
+    {
+      "id": 14,
+      "title": "uniqlo",
+      "description": "Long gilet",
+      "image": "img/products/p14.png",
+      "price": "$39.90" 
+    },
+    {
+      "id": 15,
+      "title": "uniqlo",
+      "description": "RF cap",
+      "image": "img/products/p15.png",
+      "price": "$19.90" 
+    },
+    {
+      "id": 16,
+      "title": "uniqlo",
+      "description": "sports half rim sunglasses",
+      "image": "img/products/p16.png",
+      "price": "$19.90"
+    }
+  ]
+}
